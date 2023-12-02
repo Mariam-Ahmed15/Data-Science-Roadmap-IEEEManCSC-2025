@@ -51,6 +51,8 @@
 <summary>
   Additional
 </summary>
+
+[Comprehensive Numpy Notebook](https://github.com/ageron/handson-ml3/blob/main/tools_numpy.ipynb)
 </details>
 <br><br>
 
@@ -71,6 +73,8 @@ Finish [Corey playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i
 <summary>
   Additional
 </summary>
+
+[Pandas Summary Notebook](https://github.com/ageron/handson-ml3/blob/main/tools_pandas.ipynb)
 </details>
 <br><br>
 
@@ -81,6 +85,8 @@ Finish [Corey playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i
 <summary>
   Additional
 </summary>
+
+[Awesome Youtube 6h Course](https://www.youtube.com/watch?v=Q6G-J54vgKc&pp=ygUeYmlnIGRhdGEg2KjYp9mE2LnYsdio2YogZ2l0dWhi)
 </details>
 <br><br>
 
@@ -213,6 +219,8 @@ Finish [Data Visualization with Tableau](https://learn.udacity.com/courses/ud100
 <summary>
   Additional
 </summary>
+
+[Linear Algebra Notebook](https://github.com/ageron/handson-ml3/blob/main/math_linear_algebra.ipynb)
 </details>
 <br><br>
 
@@ -223,6 +231,8 @@ Finish [Data Visualization with Tableau](https://learn.udacity.com/courses/ud100
 <summary>
   Additional
 </summary>
+
+[Differential Calculus Notebook](https://github.com/ageron/handson-ml3/blob/main/math_differential_calculus.ipynb)
 </details>
 <br><br>
 
