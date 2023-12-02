@@ -30,6 +30,8 @@
 <summary>
   Additional
 </summary>
+
+[Python Cheatsheet](https://github.com/aneagoie/ztm-python-cheat-sheet)
 </details>
 <br><br>
 
@@ -40,6 +42,8 @@
 <summary>
   Additional
 </summary>
+
+[Nice Medium Article](https://pub.towardsai.net/complete-guide-to-statistics-descriptive-statistics-part-1-600a7783be0)
 </details>
 <br><br>
 
@@ -187,6 +191,8 @@ Finish [Data Visualization with Tableau](https://learn.udacity.com/courses/ud100
 <summary>
   Additional
 </summary>
+
+[FreeCodeCamp Youtube Course](https://www.youtube.com/watch?v=HXV3zeQKqGY&pp=ygUDc3Fs)
 </details>
 <br><br>
 
@@ -311,6 +317,9 @@ Chapter 1,2 in [Hands on ML book](https://www.amazon.com/Hands-Machine-Learning-
 <summary>
   Additional
 </summary>
+
+[Chapter 1 Notebook](https://github.com/ageron/handson-ml3/blob/main/01_the_machine_learning_landscape.ipynb)   
+[Chapter 2 Notebook](https://github.com/ageron/handson-ml3/blob/main/02_end_to_end_machine_learning_project.ipynb)
 </details>
 <br><br>
 
@@ -320,6 +329,9 @@ Chapter 3,4 in [Hands on ML book](https://www.amazon.com/Hands-Machine-Learning-
 <summary>
   Additional
 </summary>
+
+[Chapter 3 Notebook](https://github.com/ageron/handson-ml3/blob/main/03_classification.ipynb)   
+[Chapter 4 Notebook](https://github.com/ageron/handson-ml3/blob/main/04_training_linear_models.ipynb)
 </details>
 <br><br>
 
@@ -329,6 +341,9 @@ Chapter 5,6 in [Hands on ML book](https://www.amazon.com/Hands-Machine-Learning-
 <summary>
   Additional
 </summary>
+
+[Chapter 5 Notebook](https://github.com/ageron/handson-ml3/blob/main/05_support_vector_machines.ipynb)    
+[Chapter 6 Notebook](https://github.com/ageron/handson-ml3/blob/main/06_decision_trees.ipynb)
 </details>
 <br><br>
 
@@ -338,6 +353,9 @@ Chapter 7,8 in [Hands on ML book](https://www.amazon.com/Hands-Machine-Learning-
 <summary>
   Additional
 </summary>
+
+[Chapter 7 Notebook](https://github.com/ageron/handson-ml3/blob/main/07_ensemble_learning_and_random_forests.ipynb)    
+[Chapter 8 Notebook](https://github.com/ageron/handson-ml3/blob/main/08_dimensionality_reduction.ipynb)
 </details>
 <br><br>
 
@@ -347,6 +365,8 @@ Chapter 9 in [Hands on ML book](https://www.amazon.com/Hands-Machine-Learning-Sc
 <summary>
   Additional
 </summary>
+
+[Chapter 9 Notebook](https://github.com/ageron/handson-ml3/blob/main/09_unsupervised_learning.ipynb)
 </details>
 <br><br>
    
