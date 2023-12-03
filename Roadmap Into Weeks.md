@@ -282,17 +282,7 @@ Finish [Data Visualization with Tableau](https://learn.udacity.com/courses/ud100
 <br><br>
 
  
-### Week 7 :
-[Advanced Learning Algorithms (week 3,4)](https://www.coursera.org/learn/advanced-learning-algorithms) <br>  
-<details>
-<summary>
-  Additional
-</summary>
-</details>
-<br><br>
-
- 
-### Week 8 : 
+### Week 7 : 
 [Unsupervised Learning, Recommenders, Reinforcement Learning (week 1,2)](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning) <br>
 <details>
 <summary>
@@ -302,8 +292,17 @@ Finish [Data Visualization with Tableau](https://learn.udacity.com/courses/ud100
 <br><br>
 
  
+### Week 8 : 
+[Unsupervised Learning, Recommenders, Reinforcement Learning (week 3)](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning) <br>
+<details>
+<summary>
+  Additional
+</summary>
+</details>
+<br><br>
+
 ### Week 9 : 
-Finish [Unsupervised Learning, Recommenders, Reinforcement Learning (week 3)](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning) <br>
+[Inferential Statistics](https://learn.udacity.com/courses/ud201) <br>
 <details>
 <summary>
   Additional
