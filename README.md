@@ -4,7 +4,7 @@
 
 <p  style="margin-right:2%"><img src="Assets/line2.png"></p>
 
-<h2 align="center">  ⏬ Click On either roadmap to go ⏬ </h2>
+<h3 align="center">  ⏬ Click On either roadmap to go ⏬ </h3>
 <p align="center">
     <a href="https://github.com/Ahmed-Hereiz/Data-Science-Roadmap-IEEE-2024/blob/main/General%20Roadmap.md">
         <img src="Assets/genereal roadmap.png" style="width: 35%; margin-right:9%">
