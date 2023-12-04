@@ -1,9 +1,21 @@
+<p align="center">
+    <img src="Assets/ieee data science roadmap.png" width="85%">
+</p>
 
-<h1 align="center">Data Science Roadmap-IEEE-2023</h1> 
+<p  style="margin-right:2%"><img src="Assets/line.png"></p>
 
-## Here we have two files:
-* Roadmap:  Contains the full roadmap as headlines and each one has some suggested courses. <br>
-* Roadmap_into_weeks (recommended):  The same roadmap, but a specific course was chosen in each subject and it was divided into weeks, at a studying rate of 7 hours per week.
-<br>
+<h2 align="center">  ⏬ Click On either roadmap to go ⏬ </h2>
+<p align="center">
+    <a href="https://github.com/Ahmed-Hereiz/Data-Science-Roadmap-IEEE-2024/blob/main/General%20Roadmap.md">
+        <img src="Assets/genereal roadmap.png" style="width: 45%; margin-right:5%">
+    </a>
+    <a href="https://github.com/Ahmed-Hereiz/Data-Science-Roadmap-IEEE-2024/blob/main/Roadmap%20Into%20Weeks.md">
+        <img src="Assets/Scheduled roadmap.png" style="width: 45%;" >
+    </a>
+</p>
 
+## Here we have two files
 
+- General Roadmap: Contains the full roadmap as headlines and each one has some suggested courses. <br>
+- Sheduled Roadmap (recommended): The same roadmap, but a specific course was chosen in each subject and it was divided into weeks, at a studying rate of 7 hours per week.
+  <br>
