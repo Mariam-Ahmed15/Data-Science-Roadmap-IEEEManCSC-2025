@@ -7,11 +7,11 @@
 <h3 align="center">  ⏬ Click On either roadmap to go ⏬ </h3>
 <p align="center">
     <a href="https://github.com/Ahmed-Hereiz/Data-Science-Roadmap-IEEE-2024/blob/main/General%20Roadmap.md">
-        <img src="Assets/genereal roadmap.png" style="width: 25em; margin-right:9%">
+        <img src="Assets/genereal roadmap.png" style="width: 22em; margin-right:9%">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/Ahmed-Hereiz/Data-Science-Roadmap-IEEE-2024/blob/main/Roadmap%20Into%20Weeks.md">
-        <img src="Assets/Scheduled roadmap.png" style="width:25em;" >
+        <img src="Assets/Scheduled roadmap.png" style="width:22em;" >
     </a>
 </p>
 
