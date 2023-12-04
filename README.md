@@ -2,7 +2,7 @@
     <img src="Assets/ieee data science roadmap.png" width="60%">
 </p>
 
-<p  style="margin-right:2%"><img src="Assets/line2.png"></p>
+
 
 <h3 align="center">  ⏬ Click On either roadmap to go ⏬ </h3>
 <p align="center">
