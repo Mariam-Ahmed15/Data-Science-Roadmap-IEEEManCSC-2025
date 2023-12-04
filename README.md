@@ -1,8 +1,8 @@
 <p align="center">
-    <img src="Assets/ieee data science roadmap.png" width="85%">
+    <img src="Assets/ieee data science roadmap.png" width="70%">
 </p>
 
-<p  style="margin-right:2%"><img src="Assets/line.png"></p>
+<p  style="margin-right:2%"><img src="Assets/line2.png"></p>
 
 <h2 align="center">  ⏬ Click On either roadmap to go ⏬ </h2>
 <p align="center">
