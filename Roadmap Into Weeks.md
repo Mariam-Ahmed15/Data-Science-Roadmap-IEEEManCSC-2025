@@ -4,16 +4,16 @@
  ## It's the same roadmap, but divided into weeks with an average studying rate of 6 hours per week. 
   
  ### This roadmap is divided into 4 levels: 
- ### 1. Stage 1: you get a basic understanding of the prerequisites, data cleaning, and git. 
- ### 2. Stage 2: learn visualizing, Tableau, SQL, and web scraping. 
- ### 3. Stage 3: dive into ML and Math 
- ### 4. Stage 4: where we learn DL, CV, and NLP. 
+ ### 1. [Stage 1](#stage-1): you get a basic understanding of the prerequisites, data cleaning, and git. 
+ ### 2. [Stage 2](#stage-2): learn visualizing, Tableau, SQL, and web scraping. 
+ ### 3. [Stage 3](#stage-3): dive into ML and Math 
+ ### 4. [Stage 4](#stage-4): where we learn DL, CV, and NLP. 
  
  <br> 
  
  > You should make a task after each week, and some projects after each stage. 
   
-## Stage 1 
+<h2 id="stage-1">Stage 1 </h2>
  
 ### Week 1 : 
 [Python-Basics](https://www.coursera.org/learn/python-basics) <br> 
@@ -105,7 +105,7 @@ Finish [Corey playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i
 <br><br>
 
  
-## Stage 2 
+<h2 id="stage-2">Stage 2 </h2>
 
 ### Week 1:
 [Cleaning (data camp)](https://app.datacamp.com/learn/courses/cleaning-data-in-python) <br> 
@@ -217,7 +217,7 @@ Finish [Data Visualization with Tableau](https://learn.udacity.com/courses/ud100
 </details>
 <br><br>
 
-## Stage 3 
+<h2 id="stage-3">Stage 3</h2>
  
 ### Week 1 : 
 [linear Algebra](https://www.coursera.org/learn/machine-learning-linear-algebra?specialization=mathematics-for-machine-learning-and-data-science) <br>
@@ -369,7 +369,7 @@ Chapter 9 in [Hands on ML book](https://www.amazon.com/Hands-Machine-Learning-Sc
 </details>
 <br><br>
    
-## Stage 4
+<h2 id="stage-4">Stage 4</h2>
 
 ### Week 1 : 
 [First 2 Weeks Neural Networks course](https://www.coursera.org/learn/neural-networks-deep-learning) <br>
