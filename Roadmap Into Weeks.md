@@ -23,6 +23,13 @@
   Additional
 </summary>
 </details>
+<details>
+<summary>
+  Task
+</summary>
+  
+[Task-1 Notebook](https://colab.research.google.com/drive/11gNjyWxI1JShycED8Zmr6VlNqSjQehUM)
+</details>
 <br><br>
 
 ### Week 2: 
@@ -117,6 +124,12 @@ Finish [Corey playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i
   Additional
 </summary>
   <a href="https://github.com/Ahmed-Hereiz/My-Summmary/blob/main/Data%20cleaning/pandas_data_cleaning.ipynb">Data Cleaning Summary</a><br>
+</details>
+<details>
+<summary>
+  Task
+</summary>
+ <a href="https://drive.google.com/drive/folders/1CtOEFZxKxZ7zIG7021S2CypP2_JqjSz6">Task Data</a><br>
 </details>
 <br><br>
 
@@ -230,6 +243,12 @@ Finish [Data Visualization with Tableau](https://learn.udacity.com/courses/ud100
 </summary>
 
 [Linear Algebra Notebook](https://github.com/ageron/handson-ml3/blob/main/math_linear_algebra.ipynb)
+</details>
+<details>
+<summary>
+  Task
+</summary>
+ <a href="https://docs.google.com/forms/d/e/1FAIpQLScL6QDjvauPEiVek1d4gI_yPg1Fpq07gVCx0BAnLfmRiyLYdA/viewform">Linear Algebra task link</a><br>
 </details>
 <br><br>
 
@@ -438,7 +457,7 @@ Chapter 1,2,3 in [Deep Learning with python book](https://www.oreilly.com/librar
 </details>
 <br><br>
 
-### Week 7 :
+### Week 8 :
 Chapter 4,5 in [Deep Learning with python book](https://www.oreilly.com/library/view/deep-learning-with/9781617294433/)
 <details>
 <summary>
@@ -447,7 +466,7 @@ Chapter 4,5 in [Deep Learning with python book](https://www.oreilly.com/library/
 </details>
 <br><br>
 
-### Week 7 :
+### Week 9 :
 Chapter 6,7 in [Deep Learning with python book](https://www.oreilly.com/library/view/deep-learning-with/9781617294433/)
 <details>
 <summary>
@@ -456,7 +475,7 @@ Chapter 6,7 in [Deep Learning with python book](https://www.oreilly.com/library/
 </details>
 <br><br>
 
-### Week 8 :
+### Week 10 :
 [Convolutional Neural Networks Week 1, Week 2](https://www.coursera.org/learn/convolutional-neural-networks) <br>
 <details>
 <summary>
@@ -465,7 +484,7 @@ Chapter 6,7 in [Deep Learning with python book](https://www.oreilly.com/library/
 </details>
 <br><br>
 
-### Week 9 :
+### Week 11 :
 [Convolutional Neural Networks Week 3, Week 4](https://www.coursera.org/learn/convolutional-neural-networks) <br>
 <details>
 <summary>
@@ -474,7 +493,7 @@ Chapter 6,7 in [Deep Learning with python book](https://www.oreilly.com/library/
 </details>
 <br><br>
 
-### Week 10 :
+### Week 12 :
 Chapter 8,9 in [Deep Learning with python book](https://www.oreilly.com/library/view/deep-learning-with/9781617294433/)<br>
 <details>
 <summary>
@@ -484,7 +503,7 @@ Chapter 8,9 in [Deep Learning with python book](https://www.oreilly.com/library/
 <br><br>
 
 
-### Week 11 :
+### Week 13 :
 [Sequence Models Week 1, Week 2](https://www.coursera.org/learn/nlp-sequence-models) <br>
 <details>
 <summary>
@@ -494,7 +513,7 @@ Chapter 8,9 in [Deep Learning with python book](https://www.oreilly.com/library/
 <br><br>
 
 
-### Week 12 :
+### Week 14 :
 [Sequence Models Week 3, Week 4](https://www.coursera.org/learn/nlp-sequence-models) <br>
 <details>
 <summary>
@@ -503,7 +522,7 @@ Chapter 8,9 in [Deep Learning with python book](https://www.oreilly.com/library/
 </details>
 <br><br>
 
-### Week 13 :
+### Week 15 :
 Chapter 10,11 in [Deep Learning with python book](https://www.oreilly.com/library/view/deep-learning-with/9781617294433/)<br>
 <details>
 <summary>
@@ -512,7 +531,7 @@ Chapter 10,11 in [Deep Learning with python book](https://www.oreilly.com/librar
 </details>
 <br><br>
 
-### Week 14 :
+### Week 16 :
 Chapter 12,13 in [Deep Learning with python book](https://www.oreilly.com/library/view/deep-learning-with/9781617294433/)<br>
 <details>
 <summary>
