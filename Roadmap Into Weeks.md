@@ -338,6 +338,7 @@ Chapter 1,2 in [Hands on ML book](https://www.amazon.com/Hands-Machine-Learning-
 <summary>
   Additional
 </summary>
+  
 [Pipeline Session](https://drive.google.com/drive/folders/1ax-8Fxzfq2XE3eqlvQZBrzHV-XUqrbXU?usp=drive_link)
 [Chapter 1 Notebook](https://github.com/ageron/handson-ml3/blob/main/01_the_machine_learning_landscape.ipynb)   
 [Chapter 2 Notebook](https://github.com/ageron/handson-ml3/blob/main/02_end_to_end_machine_learning_project.ipynb)
