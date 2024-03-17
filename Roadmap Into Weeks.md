@@ -274,7 +274,7 @@ Finish [Data Visualization with Tableau](https://learn.udacity.com/courses/ud100
   Additional
 </summary>
 </summary> 
-[Sklearn Session](https://github.com/Eyadwaelll/Sklearn_Session)
+  [Sklearn Session](https://github.com/Eyadwaelll/Sklearn_Session)
 </details>
 <br><br>
 
