@@ -51,7 +51,8 @@
   Additional
 </summary>
 
-[Nice Medium Article](https://pub.towardsai.net/complete-guide-to-statistics-descriptive-statistics-part-1-600a7783be0)
+[Nice Medium Article](https://pub.towardsai.net/complete-guide-to-statistics-descriptive-statistics-part-1-600a7783be0)<br>
+[Descriptive Statistics Session](https://drive.google.com/file/d/1vapIBlkpg1Ry5D0Pcej3bSP3cGCDyu_i/view?usp=sharing)
 </details>
 <br><br>
 
