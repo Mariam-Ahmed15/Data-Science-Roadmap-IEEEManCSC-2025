@@ -307,6 +307,13 @@ Finish [Data Visualization with Tableau](https://learn.udacity.com/courses/ud100
   Additional
 </summary>
 </details>
+<details>
+<summary>
+  Task
+</summary>
+ <a href="https://docs.google.com/forms/d/e/1FAIpQLSeYHLohf5sHbVv45WsagjrB5UoD5e4u1QgaUAzWyHCUQwj2Bw/viewform?usp=sf_link">End to End Machine Learning Project | Guided Task</a><br>
+</details>
+<br><br>
 <br><br>
 
  
