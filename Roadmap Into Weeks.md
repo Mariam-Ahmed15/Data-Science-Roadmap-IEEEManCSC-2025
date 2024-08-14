@@ -358,6 +358,13 @@ Chapter 1,2 in [Hands on ML book](https://www.amazon.com/Hands-Machine-Learning-
 
 [Chapter 2 Notebook](https://github.com/ageron/handson-ml3/blob/main/02_end_to_end_machine_learning_project.ipynb)
 </details>
+<details>
+<summary>
+  Task
+</summary>
+ <a href="https://docs.google.com/forms/d/e/1FAIpQLSch83rLzXZX884LKOPrjZC7lqzrQq8nV9tunzXFtUbiO08T4g/viewform">Chapter 2 Regression task</a><br>
+</details>
+<br><br>
 <br><br>
 
 ### Week 11 :
@@ -370,6 +377,13 @@ Chapter 3,4 in [Hands on ML book](https://www.amazon.com/Hands-Machine-Learning-
 [Chapter 3 Notebook](https://github.com/ageron/handson-ml3/blob/main/03_classification.ipynb)   
 [Chapter 4 Notebook](https://github.com/ageron/handson-ml3/blob/main/04_training_linear_models.ipynb)
 </details>
+<details>
+<summary>
+  Task
+</summary>
+ <a href="https://docs.google.com/forms/d/e/1FAIpQLSf52gcweZHsEl-Tp7AvTapQnnT0AAxvAjTWqTc4uhB4qEiL2g/viewform">Chapter 4 | Logistic Regression From Scratch</a><br>
+</details>
+<br><br>
 <br><br>
 
 ### Week 12 :
@@ -382,6 +396,14 @@ Chapter 5,6 in [Hands on ML book](https://www.amazon.com/Hands-Machine-Learning-
 [Chapter 5 Notebook](https://github.com/ageron/handson-ml3/blob/main/05_support_vector_machines.ipynb)    
 [Chapter 6 Notebook](https://github.com/ageron/handson-ml3/blob/main/06_decision_trees.ipynb)
 </details>
+<details>
+<summary>
+  Task
+</summary>
+ <a href="https://docs.google.com/forms/d/e/1FAIpQLSeYHLohf5sHbVv45WsagjrB5UoD5e4u1QgaUAzWyHCUQwj2Bw/viewform?usp=sf_link">End to End Machine Learning Project | Guided Task</a><br>
+</details>
+<br><br>
+
 <br><br>
 
 ### Week 13 :
