@@ -392,18 +392,9 @@ Chapter 5,6 in [Hands on ML book](https://www.amazon.com/Hands-Machine-Learning-
 <summary>
   Additional
 </summary>
-
 [Chapter 5 Notebook](https://github.com/ageron/handson-ml3/blob/main/05_support_vector_machines.ipynb)    
 [Chapter 6 Notebook](https://github.com/ageron/handson-ml3/blob/main/06_decision_trees.ipynb)
 </details>
-<details>
-<summary>
-  Task
-</summary>
- <a href="https://docs.google.com/forms/d/e/1FAIpQLSeYHLohf5sHbVv45WsagjrB5UoD5e4u1QgaUAzWyHCUQwj2Bw/viewform?usp=sf_link">End to End Machine Learning Project | Guided Task</a><br>
-</details>
-<br><br>
-
 <br><br>
 
 ### Week 13 :
@@ -416,6 +407,13 @@ Chapter 7,8 in [Hands on ML book](https://www.amazon.com/Hands-Machine-Learning-
 [Chapter 7 Notebook](https://github.com/ageron/handson-ml3/blob/main/07_ensemble_learning_and_random_forests.ipynb)    
 [Chapter 8 Notebook](https://github.com/ageron/handson-ml3/blob/main/08_dimensionality_reduction.ipynb)
 </details>
+<details>
+<summary>
+  Task
+</summary>
+ <a href="https://docs.google.com/forms/d/1sufALwThtacaKYu3KJy8kb0TeyRIik2Hdgi6ERcZPCg/edit">Chapter 7 Task | Machine Learning Project with Streamlit Deployment</a><br>
+</details>
+<br><br>
 <br><br>
 
 ### Week 14 :
