@@ -14,7 +14,6 @@
  > You should make a task after each week, and some projects after each stage. 
   
 <h2 id="stage-1"><a href="#stage-1"><img src="Assets/stage1.png" width="200px"></a></h2>
- <img src="Assets/Picture14.png" align="right" width="28px">
  
 ### Week 1 : 
 [Python-Basics](https://www.coursera.org/learn/python-basics) <br> 
@@ -115,7 +114,6 @@ Finish [Corey playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i
 
  
 <h2 id="stage-2"><a href="#stage-2"><img src="Assets/stage 2.png" width="200px"></a></h2>
-<img src="Assets/Picture15.png" align="right" width="35px">
 
 ### Week 1:
 [Cleaning (data camp)](https://app.datacamp.com/learn/courses/cleaning-data-in-python) <br> 
@@ -236,7 +234,6 @@ Finish [Data Visualization with Tableau](https://learn.udacity.com/courses/ud100
 <br><br>
 
 <h2 id="stage-3"><a href="#stage-3"><img src="Assets/stage 3.png" width="200px"></a></h2>
- <img src="Assets/Picture16.png" align="right" width="48px">
  
 ### Week 1 : 
 [linear Algebra](https://www.coursera.org/learn/machine-learning-linear-algebra?specialization=mathematics-for-machine-learning-and-data-science) <br>
@@ -428,7 +425,6 @@ Chapter 9 in [Hands on ML book](https://www.amazon.com/Hands-Machine-Learning-Sc
 <br><br>
    
 <h2 id="stage-4"><a href="#stage-4"><img src="Assets/stage 4_e.png" width="200px"></a></h2>
-<img src="Assets/Picture11.png" align="right" width="54px">
 
 ### Week 1 : 
 [First 2 Weeks Neural Networks course](https://www.coursera.org/learn/neural-networks-deep-learning) <br>
