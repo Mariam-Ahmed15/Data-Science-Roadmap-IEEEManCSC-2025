@@ -14,7 +14,15 @@
  > You should make a task after each week, and some projects after each stage. 
   
 <h2 id="stage-1"><a href="#stage-1"><img src="Assets/stage1.png" width="200px"></a></h2>
- 
+
+| 📅 Week | 🔖 Topics            | 📚 Resources                                  | 📝 Task                                |
+|------|--------------------|--------------------------------------------|-------------------------------------|
+| 1    | - 📊 Descriptive Statistics | 📌**Main Resourses**<br> - [Udacity course (intro to descriptive statistics)](https://www.udacity.com/enrollment/ud827) <br> 💡**Additional Resorses** <br> - [Simple Learning Pro(Statistics1)](https://youtube.com/playlist?list=PL0KQuRyPJoe6KjlUM6iNYgt8d0DwI-IGR&si=-2vYyjueFXxP-zx4) <br> - [Kaggle Article](https://www.kaggle.com/discussions/getting-started/198641) <br> - [Data Camp cheat_sheat](https://www.datacamp.com/cheat-sheet/descriptive-statistics-cheat-sheet) | 📝[Statistics Task1](https://colab.research.google.com/drive/1_yLcOd7st7X6KuwYEFpZ1j3vJmVI8cBT?usp=sharing) |
+| 2    | 🐍Python Basics | 📌**Main Resourses**<br> - [udacity Course(Intro to Python Programming)](https://www.udacity.com/enrollment/ud1110) <br>  💡**Additional Resorses** <br> - [Kaggle Course](https://www.kaggle.com/learn/python) <br> - [SoloLearn (intro to Python)](https://www.sololearn.com/en/learn/courses/python-introduction)<br> - [SoloLearn (Intermediate Python)](https://www.sololearn.com/en/learn/courses/python-intermediate) | 📝[Python Task1](https://colab.research.google.com/drive/1ChRJZ1qAsoCIA10YtMvWVKFBIPdWHZ_u?usp=sharing) <br> 📝[Python Task2](https://drive.google.com/file/d/11gNjyWxI1JShycED8Zmr6VlNqSjQehUM/view?usp=sharing) <br> 📝[Data Camp Assessement](https://assessment-v2.datacamp.com/coding-for-production-python)|
+| 3    | 🐍OOp in Python | 📌**Main Resourses** <br>- [Data Camp Course](https://app.datacamp.com/learn/courses/object-oriented-programming-in-python) <br> 💡**Additional Resorses**<br> - [kaggle Article (OOP1)](https://www.kaggle.com/discussions/getting-started/428038) <br> - [Kaggle Article (OOP2)](https://www.kaggle.com/discussions/getting-started/428640)| 📝[Building a Retail Inventory Management System (Data Camp Project)](https://app.datacamp.com/learn/projects/2426) |
+| 4    | 🔢Numpy | 📌**Main Resourses** <br>- [Data Camp(Numpy)](https://app.datacamp.com/learn/courses/introduction-to-numpy) <br> 💡**Additional Resorses** <br>- [Comprehensive Numpy Notebook](https://github.com/ageron/handson-ml3/blob/main/tools_numpy.ipynb) <br> - [Numpy Documentation](https://numpy.org/learn/)| 📝[Practice on Numpy](https://practice.datacamp.com/p/601)|
+| 5    |  🐼Pandas  |  📌**Main Resourses** <br>- [Corey Schafer (Pandas tutorial)](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS) <br>- [Medium Article (Data Cleaning)](https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4)<br>💡**Additional Resorses**<br>- [Comperehensive Notebook](https://github.com/ageron/handson-ml3/blob/main/tools_pandas.ipynb)<br> [Pandas Documentation](https://pandas.pydata.org/docs/)| 📝[Examining the History of Lego Sets(Data Camp Project)](https://app.datacamp.com/learn/projects/2378) | 
+|  6    |  🔣 Regular Expressions (Regex) <br> 🧹 Data Cleaning
 ### Week 1 : 
 [Python-Basics](https://www.coursera.org/learn/python-basics) <br> 
 <details>
@@ -114,6 +122,12 @@ Finish [Corey playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i
 
  
 <h2 id="stage-2"><a href="#stage-2"><img src="Assets/stage 2.png" width="200px"></a></h2>
+
+| 📅 Week | 🔖 Topics            | 📚 Resources                                  | 📝 Task                                |
+|------|--------------------|--------------------------------------------|-------------------------------------|
+|  6    |  📈Matplotlib  |  📌**Main Resourses** <br>- [Corey Schafer (Matplotlib tutorial)](https://youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_&si=I3gLknPrRuBYvuIo)<br>💡**Additional Resorses**<br>- [Data Camp Blog(Data Visualization)](https://www.datacamp.com/blog/what-is-data-visualization-a-guide-for-data-scientists)  |  📝[Investigating Netflix Movies(Datacamp Project)](https://app.datacamp.com/learn/projects/investigating_netflix)<br>📝Make a notebook on kaggle[9000+ Movies dataset](https://www.kaggle.com/datasets/disham993/9000-movies-dataset)  |
+|  7    |  🌊Seaborn  |
+
 
 ### Week 1:
 [Cleaning (data camp)](https://app.datacamp.com/learn/courses/cleaning-data-in-python) <br> 
