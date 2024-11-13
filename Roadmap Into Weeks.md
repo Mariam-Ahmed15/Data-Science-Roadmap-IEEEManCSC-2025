@@ -22,111 +22,19 @@
 | 3    | 🐍OOp in Python | 📌**Main Resourses** <br>- [Data Camp Course](https://app.datacamp.com/learn/courses/object-oriented-programming-in-python) <br> 💡**Additional Resorses**<br> - [kaggle Article (OOP1)](https://www.kaggle.com/discussions/getting-started/428038) <br> - [Kaggle Article (OOP2)](https://www.kaggle.com/discussions/getting-started/428640)| 📝[Building a Retail Inventory Management System (Data Camp Project)](https://app.datacamp.com/learn/projects/2426) |
 | 4    | 🔢Numpy | 📌**Main Resourses** <br>- [Data Camp(Numpy)](https://app.datacamp.com/learn/courses/introduction-to-numpy) <br> 💡**Additional Resorses** <br>- [Comprehensive Numpy Notebook](https://github.com/ageron/handson-ml3/blob/main/tools_numpy.ipynb) <br> - [Numpy Documentation](https://numpy.org/learn/)| 📝[Practice on Numpy](https://practice.datacamp.com/p/601)|
 | 5    |  🐼Pandas  |  📌**Main Resourses** <br>- [Corey Schafer (Pandas tutorial)](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS) <br>- [Medium Article (Data Cleaning)](https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4)<br>💡**Additional Resorses**<br>- [Comperehensive Notebook](https://github.com/ageron/handson-ml3/blob/main/tools_pandas.ipynb)<br> [Pandas Documentation](https://pandas.pydata.org/docs/)| 📝[Examining the History of Lego Sets(Data Camp Project)](https://app.datacamp.com/learn/projects/2378) | 
-|  6    |  🔣 Regular Expressions (Regex) <br> 🧹 Data Cleaning
-### Week 1 : 
-[Python-Basics](https://www.coursera.org/learn/python-basics) <br> 
-<details>
-<summary>
-  Additional
-</summary>
-</details>
-<details>
-<summary>
-  Task
-</summary>
-  
-[Task-1 Notebook](https://colab.research.google.com/drive/11gNjyWxI1JShycED8Zmr6VlNqSjQehUM)
-</details>
-<br><br>
+|  6    |  🔣 Regular Expressions (Regex) <br> 🧹 Data Cleaning  | 📌**Main Resourses** <br>- [Datacamp Course(Regex in Python)](https://app.datacamp.com/learn/courses/regular-expressions-in-python)<br>- [Datacamp Course(Cleaning Data)](https://app.datacamp.com/learn/courses/cleaning-data-in-python)<br> 💡**Additional Resorses**<br>- [Python Regex Documentation](https://www.w3schools.com/python/python_regex.asp)<br>- [Medium Article(Data Cleaning)](https://bit.ly/3vXqybR)<br>- [Kaggle Course(Data Cleaning)](https://www.kaggle.com/learn/data-cleaning)  |  📝Clean the [candy data](https://drive.google.com/drive/folders/1Nxi3h7cxIFDJ1Zr8LajnHYDA2cuLDAK2)  |   
 
-### Week 2: 
-[Python Functions, Files, and Dictionaries](https://www.coursera.org/learn/python-functions-files-dictionaries) <br>
-<details>
-<summary>
-  Additional
-</summary>
-
-[Python Cheatsheet](https://github.com/aneagoie/ztm-python-cheat-sheet)
-</details>
-<br><br>
-
-
-### Week 3: 
-[Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827) <br>
-<details>
-<summary>
-  Additional
-</summary>
-
-[Nice Medium Article](https://pub.towardsai.net/complete-guide-to-statistics-descriptive-statistics-part-1-600a7783be0)<br>
-[Descriptive Statistics Session](https://drive.google.com/file/d/1vapIBlkpg1Ry5D0Pcej3bSP3cGCDyu_i/view?usp=sharing)
-</details>
-<br><br>
-
-
-### Week 4: 
-[Numpy (Full course)](https://app.datacamp.com/learn/courses/introduction-to-numpy) <br>
-[Numpy DOC](https://numpy.org/learn/) <br>
-<details>
-<summary>
-  Additional
-</summary>
-
-[Comprehensive Numpy Notebook](https://github.com/ageron/handson-ml3/blob/main/tools_numpy.ipynb)
-</details>
-<br><br>
-
- 
-### Week 5: 
-6 videos of [Corey playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS ) <br> 
-<details>
-<summary>
-  Additional
-</summary>
-</details>
-<br><br>
-
-
-### Week 6:
-Finish [Corey playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS ) <br>
-<details>
-<summary>
-  Additional
-</summary>
-
-[Pandas Summary Notebook](https://github.com/ageron/handson-ml3/blob/main/tools_pandas.ipynb)
-</details>
-<br><br>
-
-
-### Week 7: 
-[Git (session)](https://drive.google.com/drive/folders/14qy8O3XsKmaSGUfd5jGyFFoAcqcSCxoZ?usp=sharing) <br> 
-<details>
-<summary>
-  Additional
-</summary>
-
-[Awesome Youtube 6h Course](https://www.youtube.com/watch?v=Q6G-J54vgKc&pp=ygUeYmlnIGRhdGEg2KjYp9mE2LnYsdio2YogZ2l0dWhi)
-</details>
-<br><br>
-
-
-### Week 8:
-[Google First Course](https://www.coursera.org/learn/foundations-data?specialization=google-data-analytics) <br>
-<details>
-<summary>
-  Additional
-</summary>
-</details>
-<br><br>
 
  
 <h2 id="stage-2"><a href="#stage-2"><img src="Assets/stage 2.png" width="200px"></a></h2>
 
 | 📅 Week | 🔖 Topics            | 📚 Resources                                  | 📝 Task                                |
 |------|--------------------|--------------------------------------------|-------------------------------------|
-|  6    |  📈Matplotlib  |  📌**Main Resourses** <br>- [Corey Schafer (Matplotlib tutorial)](https://youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_&si=I3gLknPrRuBYvuIo)<br>💡**Additional Resorses**<br>- [Data Camp Blog(Data Visualization)](https://www.datacamp.com/blog/what-is-data-visualization-a-guide-for-data-scientists)  |  📝[Investigating Netflix Movies(Datacamp Project)](https://app.datacamp.com/learn/projects/investigating_netflix)<br>📝Make a notebook on kaggle[9000+ Movies dataset](https://www.kaggle.com/datasets/disham993/9000-movies-dataset)  |
-|  7    |  🌊Seaborn  |
+|  1     |  📈Matplotlib  |  📌**Main Resourses** <br>- [Corey Schafer (Matplotlib tutorial)](https://youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_&si=I3gLknPrRuBYvuIo)<br>💡**Additional Resorses**<br>- [Data Camp Blog(Data Visualization)](https://www.datacamp.com/blog/what-is-data-visualization-a-guide-for-data-scientists)  |  📝[Investigating Netflix Movies(Datacamp Project)](https://app.datacamp.com/learn/projects/investigating_netflix)<br>📝Make a notebook on kaggle[9000+ Movies dataset](https://www.kaggle.com/datasets/disham993/9000-movies-dataset)  |
+|  2    |  🌊Seaborn  |  📌**Main Resourses** <br>- [Datacamp(Data Visualization with Seaborn)](https://app.datacamp.com/learn/courses/introduction-to-data-visualization-with-seaborn)<br>- [Intermediate Data visualization with seaborn](https://app.datacamp.com/learn/courses/intermediate-data-visualization-with-seaborn)<br> 💡**Additional Resourses**<br>- [Seaborn Summary](https://github.com/Ahmed-Hereiz/My-Summmary/blob/main/Seaborn%20More%20Visualizations/More%20visualizations.ipynb)  | 📝Make a kaggle notebook [Airline Passanger satisfaction](https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction/data)  |
+|  3    |  🔎Exploratory Data Analysis (EDA)  |  📌**Main Resourses** <br>- [Datacamp Course (EDA)](https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-python)<br>- [Medium Article(EDA)](https://towardsdatascience.com/exploratory-data-analysis-8fc1cb20fd15)  |  📝  |
+|  4    |  ↗️Git& Git Hub  |  📌**Main Resourses** <br>- [Big Data بالعربى(Git&Github)](https://www.youtube.com/watch?v=Q6G-J54vgKc)  |  📝Make Your all work public on Github.  |
+
 
 
 ### Week 1:
