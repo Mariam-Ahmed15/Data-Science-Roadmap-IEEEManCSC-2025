@@ -40,20 +40,6 @@
 
 
 
-
- 
-
-
-
-
-  
- 
-
-
-
-
- 
-
 <br><br>
 
 
@@ -78,152 +64,13 @@
    
 <h2 id="stage-4"><a href="#stage-4"><img src="Assets/stage 4_e.png" width="200px"></a></h2>
 
-### Week 1 : 
-[First 2 Weeks Neural Networks course](https://www.coursera.org/learn/neural-networks-deep-learning) <br>
-<details>
-<summary>
-  Additional
-</summary>
-</details>
-<br><br>
-
-### Week 2 :
-[Finsh Neural Networks course](https://www.coursera.org/learn/neural-networks-deep-learning) <br>
-<details>
-<summary>
-  Additional
-</summary>
-</details>
-<br><br>
- 
-### Week 3 :
-[First week Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning) <br>
-<details>
-<summary>
-  Additional
-</summary>
-</details>
-<br><br>
- 
-### Week 4 :
-[Second week Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning) <br>
-<details>
-<summary>
-  Additional
-</summary>
-</details>
-<br><br>
- 
-### Week 5 :
-[Finish week Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning) <br>
-<details>
-<summary>
-  Additional
-</summary>
-</details>
-<br><br>
-
-### Week 6 :
-[Structuring Machine Learning Projects Course](https://www.coursera.org/learn/machine-learning-projects) <br>
-<details>
-<summary>
-  Additional
-</summary>
-</details>
-<br><br>
-
-### Week 7 :
-Chapter 1,2,3 in [Deep Learning with python book](https://www.oreilly.com/library/view/deep-learning-with/9781617294433/)
-<details>
-<summary>
-  Additional
-</summary>
-</details>
-<br><br>
-
-### Week 8 :
-Chapter 4,5 in [Deep Learning with python book](https://www.oreilly.com/library/view/deep-learning-with/9781617294433/)
-<details>
-<summary>
-  Additional
-</summary>
-</details>
-<br><br>
-
-### Week 9 :
-Chapter 6,7 in [Deep Learning with python book](https://www.oreilly.com/library/view/deep-learning-with/9781617294433/)
-<details>
-<summary>
-  Additional
-</summary>
-</details>
-<br><br>
-
-### Week 10 :
-[Convolutional Neural Networks Week 1, Week 2](https://www.coursera.org/learn/convolutional-neural-networks) <br>
-<details>
-<summary>
-  Additional
-</summary>
-</details>
-<br><br>
-
-### Week 11 :
-[Convolutional Neural Networks Week 3, Week 4](https://www.coursera.org/learn/convolutional-neural-networks) <br>
-<details>
-<summary>
-  Additional
-</summary>
-</details>
-<br><br>
-
-### Week 12 :
-Chapter 8,9 in [Deep Learning with python book](https://www.oreilly.com/library/view/deep-learning-with/9781617294433/)<br>
-<details>
-<summary>
-  Additional
-</summary>
-</details>
-<br><br>
-
-
-### Week 13 :
-[Sequence Models Week 1, Week 2](https://www.coursera.org/learn/nlp-sequence-models) <br>
-<details>
-<summary>
-  Additional
-</summary>
-</details>
-<br><br>
-
-
-### Week 14 :
-[Sequence Models Week 3, Week 4](https://www.coursera.org/learn/nlp-sequence-models) <br>
-<details>
-<summary>
-  Additional
-</summary>
-</details>
-<br><br>
-
-### Week 15 :
-Chapter 10,11 in [Deep Learning with python book](https://www.oreilly.com/library/view/deep-learning-with/9781617294433/)<br>
-<details>
-<summary>
-  Additional
-</summary>
-</details>
-<br><br>
-
-### Week 16 :
-Chapter 12,13 in [Deep Learning with python book](https://www.oreilly.com/library/view/deep-learning-with/9781617294433/)<br>
-<details>
-<summary>
-  Additional
-</summary>
-</details>
-<br><br>
- 
+| 📅 Week | 🔖 Topics            | 📚 Resources                                  | 📝 Task                                |
+|------|--------------------|--------------------------------------------|-------------------------------------|
+|  1 - 4  |  :atom: Deep Learning  |  📌**Main Resourses**<br> -[First 3 courses from Andrew Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) <br> 💡**Additional Resourses** <br> - NN lectures in ML of Dr Khalid <br> 1-[Lecture1 - Introduction to NN](https://lnkd.in/gurNtCxb)<br>2-[Lecture2 - Back Propagation](https://lnkd.in/gqHaCmYh)<br>3-[Lecture3 - NN Training](https://lnkd.in/gsYamM6r)<br>  |  📝    |
+|  4 - 8  |  📖Deep Learning with python  |  📌**Main Resourses**<br> - CH1 - CH7 from [Deep Learning with python](https://learning.oreilly.com/library/view/deep-learning-with/9781617294433/)  |  📝  |
+|  5 - 7  |  :atom: Deep Learning  |  📌**Main Resourses**<br> 1-[The 4th courses (Convolutional Neural Networks) from Andrew Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) <br>2-CH8 & CH9 from [Deep Learning with python](https://learning.oreilly.com/library/view/deep-learning-with/9781617294433/)<br> 💡**Additional Resourses** <br>   -[CS231n Winter 2016 by Andrej Karpathy](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)  |  📝    |
+|  8-9    |  :atom: Deep Learning  |  📌**Main Resourses**<br> 1-[The 5th courses (Sequence Models) from Andrew Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)  |  📝  |
+|  10 - 11  |  📖Deep Learning with python  |  📌**Main Resourses**<br> - CH10 - CH13 from [Deep Learning with python](https://learning.oreilly.com/library/view/deep-learning-with/9781617294433/)  |  📝  |
  
  > More to be added...
 
