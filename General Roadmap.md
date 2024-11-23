@@ -4,7 +4,7 @@
 
 # ▶ What Is Data Science?
 
-#### Data science is the field of study that combines domain expertise, programming skills, and knowledge of mathematics and statistics to extract meaningful insights from data. Data science practitioners apply machine learning algorithms to numbers, text, images, video, audio, and more to produce artificial intelligence (AI) systems to perform tasks that ordinarily require human intelligence. In turn, these systems generate insights that analysts and business users can translate into tangible business value......
+#### Is a multidisciplinary field that focuses on looking at raw and structured data sets and providing potential actionable insights. The field of Data Science looks at ensuring we are asking the right questions as opposed to finding exact answers. Data Scientist require skillsets that are centered on Computer Science, Mathematics, and Statistics. Data Scientist use several unique techniques to analyze data such as machine learning, trends, linear regressions, and predictive modeling. The tools Data Scientist use to apply these techniques include Python and R.
 
 #### [For more information about Data Science :movie_camera:](https://youtu.be/X3paOmcrTjQ) 
 
